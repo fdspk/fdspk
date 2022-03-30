@@ -53,6 +53,11 @@ Please feel free to give pointers in any of my projects and I hope we can collab
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="cplusplus" width="50" height="50"/>&nbsp;
 </div>
 <br/>
-<div id="line" align="center">  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdspk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<div id="line2" align="center">  
   <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
 </div>
+
+
