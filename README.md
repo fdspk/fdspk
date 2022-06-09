@@ -31,7 +31,7 @@
 # About me
 
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 
 🇧🇷 My name is Fabiana and I'm from Brazil. <br/>
 👩‍💻 I'm a Software Engineer undergraduate at PUC Minas <br/>
