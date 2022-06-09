@@ -30,7 +30,7 @@
 
 # About me
 
-  hey there
+  hey there 👋
   
 
 🇧🇷 My name is Fabiana and I'm from Brazil. <br/>
