@@ -37,9 +37,7 @@
 👩‍💻 I'm a Software Engineer undergraduate at PUC Minas <br/>
 🎯 My goal is to learn and practice a lot so I can become a great professional <br/>
 Please feel free to give pointers in any of my projects and I hope we can collaborate to make great changes<br/>
-<div id="hi5" align="center">
-  <img src="https://media.giphy.com/media/y6bHMlnYLld3PxwD3r/giphy.gif" width="500px"/>
-  </div>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
