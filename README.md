@@ -34,7 +34,7 @@
   
 
 🇧🇷 My name is Fabiana and I'm from Brazil. <br/>
-👩‍💻 I'm a Software Engineer undergraduate at PUC Minas <br/>
+👩‍💻 I'm a Software Engineer graduate student at PUC Minas <br/>
 🎯 My goal is to learn and practice a lot so I can become a great professional <br/>
 Please feel free to give pointers in any of my projects and I hope we can collaborate to make great changes<br/>
 
